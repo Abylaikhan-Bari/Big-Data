@@ -1,0 +1,10 @@
+_id,kvartal,dolya_cent,id,data_year,edin_izm,example_field1,example_field2
+6566fd133e7a16b38ea1d2c7,1 квартал (за 3 месяца),84.7,1,2023,%,,
+6566fd133e7a16b38ea1d2c8,2 квартал (за 6 месяцев),80.3,2,2023,%,,
+6566fd133e7a16b38ea1d2c9,3 квартал (за 9 месяцев),87.5,3,2023,%,,
+656700b64aedcb517d4c1c7b,,,,,,value1,10
+656700b64aedcb517d4c1c7c,,,,,,value2,20
+656700b64aedcb517d4c1c7d,,,,,,value3,30
+656700d370e507ce25f562a1,,,,,,Mysal1,10
+656700d370e507ce25f562a2,,,,,,Mysal2,20
+656700d370e507ce25f562a3,,,,,,Mysal3,30

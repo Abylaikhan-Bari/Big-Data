@@ -1,0 +1,9 @@
+db.users.insertMany([
+    { name: "John", age: 21},
+    { name: "Mike", age: 30},
+    { name: "Alex", age: 31},
+    { name: "Artur", age: 51},
+    { name: "Bill", age: 22},
+    { name: "Spencer", age: 35},
+    { name: "Micah", age: 35},
+])
